@@ -19,6 +19,7 @@ h1 {
   background-color: #e5e8cc;
   color: #ad0c2f;
 }
+
 ul {
   list-style: none;
   padding: 0;
@@ -34,35 +35,35 @@ li {
 
 .color-bienvenida {
   background-color: #c7001f;
-  color: yellow;
+  color: #ffff00;
 }
 
 .color-san-francisco {
-  background-color: brown;
-  color: yellow;
+  background-color: #a52a2a;
+  color: #ffff00;
 }
 
 .color-gahndi {
-  background-color: darkolivegreen;
-  color: yellow;
+  background-color: #556b2f;
+  color: #ffff00;
 }
 
 .color-don-bosco {
   background-color: #144ee2;
-  color: yellow;
+  color: #ffff00;
 }
 
 .color-san-martin {
-  background-color: grey;
-  color: yellow;
+  background-color: #808080;
+  color: #ffff00;
 }
 
 .color-sabio {
   background-color: #b703ff;
-  color: yellow;
+  color: #ffff00;
 }
 
 .color-nazareno {
-  background-color: blue;
-  color: yellow;
+  background-color: #0000ff;
+  color: #ffff00;
 }
