@@ -204,11 +204,3 @@ Trazo o línea de contorno, podrías usar las propiedades:
   border-radius: 5px; /* radio del borde */
 }
 ```
-
-**TIP:** si deseas ahorrar escribiendo todas las declaraciones puedes usar este **shorthand**
-
-```css
-.box {
-  border: solid 5px black; /* style width color */
-}
-```
