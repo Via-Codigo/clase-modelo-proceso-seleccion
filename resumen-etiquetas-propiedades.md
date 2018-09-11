@@ -164,7 +164,8 @@ Es la distancia del contenido de la caja hacia dentro del contenedor.
 
 ```css
 .box {
-  padding: 5px 10px; /* el primero es para el right y left, el segundo es para el top y bottom */
+  padding: 5px 10px; /* el primero es para el right y left, 
+  el segundo es para el top y bottom */
 }
 ```
 
