@@ -33,13 +33,13 @@ li {
 }
 
 .color-bienvenida {
-  background-color: darkmagenta;
+  background-color: #c7001f;
   color: yellow;
 }
 
 .color-san-francisco {
   background-color: brown;
-  color: #e5e3a5;
+  color: yellow;
 }
 
 .color-gahndi {
@@ -52,7 +52,17 @@ li {
   color: yellow;
 }
 
-.color-nazareno {
+.color-san-martin {
   background-color: grey;
+  color: yellow;
+}
+
+.color-sabio {
+  background-color: #b703ff;
+  color: yellow;
+}
+
+.color-nazareno {
+  background-color: blue;
   color: yellow;
 }
